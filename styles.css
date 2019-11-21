@@ -1,0 +1,26 @@
+body{
+    font-family: "berlin sans fb", "Trebuchet MS", "arial";
+    border:1px solid #818296;
+}
+
+
+/*****************header*******************/
+.header
+{
+    display:flex;
+    align-items: center;
+    text-align: center;
+}
+.photoPerso
+{
+    width: 33.3%;
+}
+.posteRecherche
+{
+    flex:auto
+}
+.photoPerso img
+{
+    height: 200px;
+}
+/**********************fin header***********************/
